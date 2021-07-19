@@ -1,4 +1,7 @@
 # Sprint Challenge: Advanced React - React Plants 🌿
+Edits to the readme for codegrade!
+changes for codegrade!
+
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
